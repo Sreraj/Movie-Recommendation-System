@@ -10,9 +10,13 @@ based on user preferences.
 🚀 Features
 
 🎥 Content-Based Recommendations: Suggests movies based on similarity of movie descriptions.
+
 🧠 NLP Techniques: Utilizes text analysis for meaningful recommendations.
+
 📊 Cosine Similarity: Measures the similarity between movie vectors.
+
 💾 Model Serialization: Ensures seamless deployment with Pickle.
+
 🌐 Interactive Interface: Deployed using Streamlit for real-time interaction.
 
 🛠️ Technologies Used
