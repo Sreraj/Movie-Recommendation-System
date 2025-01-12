@@ -1,9 +1,9 @@
-🎬 Movie Recommender System
+🎬 Movie Recommendation System
 ----------------------------
 
 📚 Project Overview
 
-The Movie Recommender System is an intelligent, machine learning-powered application designed to deliver personalized movie recommendations. By leveraging Natural Language Processing (NLP) techniques and cosine similarity, the system evaluates movie metadata to suggest films that align with user preferences.
+The Movie Recommendation System is an intelligent, machine learning-powered application designed to deliver personalized movie recommendations. By leveraging Natural Language Processing (NLP) techniques and cosine similarity, the system evaluates movie metadata to suggest films that align with user preferences.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
