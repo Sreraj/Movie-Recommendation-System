@@ -9,6 +9,7 @@ based on user preferences.
 
 🚀 Features
 
+
 🎥 Content-Based Recommendations: Suggests movies based on similarity of movie descriptions.
 
 🧠 NLP Techniques: Utilizes text analysis for meaningful recommendations.
@@ -19,7 +20,11 @@ based on user preferences.
 
 🌐 Interactive Interface: Deployed using Streamlit for real-time interaction.
 
+
+
 🛠️ Technologies Used
+
+
 
  Python
  
@@ -32,6 +37,8 @@ based on user preferences.
  Streamlit
  
  Pickle
+
+ 
 
 📊 Dataset
 TMDB 5000 Movies Dataset
