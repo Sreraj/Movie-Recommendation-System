@@ -1,4 +1,5 @@
 🎬 Movie Recommender System
+----------------------------
 
 📚 Project Overview
 
