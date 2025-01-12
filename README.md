@@ -22,11 +22,15 @@ based on user preferences.
 🛠️ Technologies Used
 
  Python
+ 
  Natural Language Processing (NLP)
- Word2Vec
+ 
  Cosine Similarity
+ 
  Pandas, NumPy
+ 
  Streamlit
+ 
  Pickle
 
 📊 Dataset
